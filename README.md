@@ -4,16 +4,28 @@ I'm Deepak Kumar
 Welcome to my GitHub profile! I'm a MERN stack developer currently pursuing my Master's in Computer Applications from NIT Kurukshetra. With a passion for problem-solving and software development, I strive to create efficient and user-friendly applications. Here's a brief overview of my skills and interests:
 
 Skills:
+
+
 -MERN Stack Development: Proficient in building web applications using MongoDB, Express.js, React.js, and Node.js.
+
 -Core Java: Solid understanding of object-oriented programming principles and Java development.
+
 -Data Structures and Algorithms (DSA): Sound knowledge of DSA concepts for efficient problem-solving.
 
+
 Education:
+
+
 -Master of Computer Applications (MCA), NIT Kurukshetra (Currently Pursuing)
 
+
 Interests:
+
+
 -Software Development: I love creating applications that solve real-world problems and enhance user experiences.
+
 -Learning New Technologies: Always eager to learn and explore emerging technologies and frameworks in the world of software development.
+
 
 Feel free to explore my repositories and don't hesitate to reach out if you have any questions or collaboration opportunities! 😊🚀
 <!--
