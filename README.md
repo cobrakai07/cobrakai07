@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [Sync Sketch](https://github.com/cobrakai07/SyncSketch)
 
-- 🌱 I’m currently learning **Backend Development, Next.js and Blockchain**
+- 🌱 I’m currently learning **Backend Development, Next.js and Java SpringBoot**
 
 - 💬 Ask me about **react, Java, Javascript and Data Structures and Algorithms**
 
