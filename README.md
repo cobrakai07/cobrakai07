@@ -73,16 +73,4 @@
 
 ---
 
-<details>
-  <summary>⭐ Support This Project</summary>
-  <p>If you find this useful, give it a ⭐ and share! Your support keeps open-source tools free.</p>
-  <p>
-    <a href="https://twitter.com/intent/tweet?text=I%20just%20used%20GitHub%20Profile%20README%20Generator!">
-      <img src="https://img.shields.io/twitter/url?label=Tweet&style=social&url=https%3A%2F%2Fgithub.com%2Fryo-ma%2Fgithub-profile-trophy" alt="Tweet it" />
-    </a>
-    &nbsp;
-    <a href="https://ko-fi.com/rahuldkjain">
-      <img src="https://img.shields.io/badge/Buy%20me%20a%20Coffee-☕️-ff5c5c" alt="Buy me a coffee" />
-    </a>
-  </p>
-</details>
+
