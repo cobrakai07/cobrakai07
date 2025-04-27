@@ -29,7 +29,7 @@
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" width="30" height="30" />
   </a>
   &nbsp;
-  <a href="https://leetcode.com/cobra_kai_07" target="_blank">
+  <a href="https://leetcode.com/deepak_cobra_kai" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" width="30" height="30" />
   </a>
   &nbsp;
