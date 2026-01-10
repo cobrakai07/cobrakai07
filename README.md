@@ -5,11 +5,11 @@
 ---
 
 <!-- Profile Views & Trophies -->
-<p align="center">
+<!-- <p align="center">
   <img src="https://komarev.com/ghpvc/?username=cobrakai07&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
   &nbsp;
   <img src="https://github-profile-trophy.vercel.app/?username=cobrakai07&column=7&theme=radical" alt="Trophies" />
-</p>
+</p> -->
 
 ---
 
@@ -65,11 +65,23 @@
 ---
 
 <!-- Stats -->
-<p align="center">
+<!-- <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=cobrakai07&show_icons=true&theme=radical" alt="GitHub Stats" />
   &nbsp;
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=cobrakai07&layout=compact&theme=radical" alt="Top Languages" />
-</p>
+</p> -->
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/cobrakai07/cobrakai07/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/cobrakai07/cobrakai07/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/cobrakai07/cobrakai07/output/pacman-contribution-graph.svg">
+</picture>
+
+###
+
+
+
+###
 
 ---
 
