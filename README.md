@@ -11,7 +11,7 @@
   <img src="https://github-profile-trophy.vercel.app/?username=cobrakai07&column=7&theme=radical" alt="Trophies" />
 </p> -->
 
----
+
 
 <!-- About Me -->
 ### 🚀 About Me
@@ -33,9 +33,7 @@
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" width="30" height="30" />
   </a>
   &nbsp;
-  <a href="https://github.com/cobrakai07" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" width="30" height="30" />
-  </a>
+
 </p>
 
 ---
@@ -62,7 +60,7 @@
   <img alt="Tailwind"    src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg"                         width="30" height="30"/>
 </p>
 
----
+
 
 <!-- Stats -->
 <!-- <p align="center">
@@ -71,18 +69,9 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=cobrakai07&layout=compact&theme=radical" alt="Top Languages" />
 </p> -->
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/cobrakai07/cobrakai07/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/cobrakai07/cobrakai07/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/cobrakai07/cobrakai07/output/pacman-contribution-graph.svg">
-</picture>
-
-###
 
 
 
-###
 
----
 
 
